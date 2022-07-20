@@ -21,11 +21,11 @@ app = Flask(__name__)
 def welcome():
     return(
     '''
-    Welcome to the Climate Analysis API!
-    Available Routes:
-    /api/v1.0/precipitation
-    /api/v1.0/stations
-    /api/v1.0/tobs
+    Welcome to the Climate Analysis API!<br />
+    Available Routes:<br />
+    /api/v1.0/precipitation<br />
+    /api/v1.0/stations<br />
+    /api/v1.0/tobs<br />
     /api/v1.0/temp/start/end
     ''')
 
@@ -56,11 +56,12 @@ def temp_monthly():
 @app.route("/api/v1.0/temp/<start>/<end>")
 def stats(start=None, end=None):
     sel = [func.min(Measurement.tobs), func.avg(Measurement.tobs), func.max(Measurement.tobs)]
+    # results = ""
     if not end:
         results = session.query(*sel).\
             filter(Measurement.date >= start).all()
         temps = list(np.ravel(results))
-    return jsonify(temps=temps)
+        return jsonify(temps=temps)
 
     results = session.query(*sel).\
         filter(Measurement.date >= start).\
