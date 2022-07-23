@@ -17,7 +17,7 @@ Based on the anlysis of temperature and precipitation in Oahu, W. Avy is confide
    
 - **3 Differences between June and December Temperatures**
   - Highest and Lowest Temperature
-     - The highest and lowest temperature in June are 85.0°F and 64.0°F. The highest and lowest temperature in June are 83.0°F and 56.0°F. Lowest temperatrue in December is colder than in June.
+     - The highest and lowest temperature in June are 85.0°F and 64.0°F. The highest and lowest temperature in June are 83.0°F and 56.0°F. Lowest temperatrue in December is fairly colder than in June.
      
   - Averager Temperature 
      - The average temperature in June is 74.9°F. The average temperature in December is 71.0°F. December is still slightly cooler than June in Oahu island. 
