@@ -17,10 +17,10 @@ Based on the anlysis of temperature and precipitation in Oahu, W. Avy is confide
    
 - **3 Differences between June and December Temperatures**
   - Highest and Lowest Temperature
-     - The highest and lowest temperature in June are 85.0°F and 64.0°F. The highest and lowest temperature in June are 83.0°F and 56.0°F. Highest temperature doesn't change too much. However, midnight in December is colder than in June.
+     - The highest and lowest temperature in June are 85.0°F and 64.0°F. The highest and lowest temperature in June are 83.0°F and 56.0°F. Lowest temperatrue in December is colder than in June.
      
   - Averager Temperature 
-     - The average temperature in June is 74.9°F. The average temperature in December is 71.0°F. These are very mild temperture comparing to other cities in America. Even so, June is still slightly warmer than December in Oahu island. 
+     - The average temperature in June is 74.9°F. The average temperature in December is 71.0°F. December is still slightly cooler than June in Oahu island. 
   
   - Standard Deviation
     - Standard Deviation is 3.3 and 3.7 for June and December tempertures respectively. 
@@ -28,11 +28,7 @@ Based on the anlysis of temperature and precipitation in Oahu, W. Avy is confide
 
 
 ## Summary
-After reading and math scores for the ninth grade from Thomas High School were replaced with NaNs, school district analyses results were updated. According to analyses, there were a few changes occured: 
-  - The district summary: Updated average math score, passing math percentage, passing reading percentage, and overall passsing(both on math and reading) percentage are slightly lower than original ones.
-  - The school summary: For Thomas High School, although average math score and reading score appear no big differences, passing math percentage, passing reading percentage, and overall passing percentage dramatically dropped. School summary for other schools were not affected.
-  - School performance: Even if overall passing percentage of Thomas High School is changed from 90.948012% to 90.630324%, this doesn't affect its performance relative to other schools. Either ninth graders' math and reading scroes replaced or not, Thomas High School hold the second place of school performance based on overall passing percentage. 
-  - Math and reading scores by grade: Obviously, Thomas High School 9th Graders' Average Scores were: Math-83.6, Reading-83.7. These average scores changed to NaNs. Because all the individual ninth grade student math and reading scores were replaced by NaN. 
-  - For scores by school spending, school size, and school type, no changes were observed from formatted analyses data. 
-  
+  - Lowest temperature shows a big difference in June and December. However the lowest temperature mostly happen in mid-night. The   surf and ice cream shop mainly opens in day. Highest temperature doesn't change too much. This won't affect W. Avy's bussiness very much.
+  - Even though the averager temperature in December is still slightly cooler than June.These are still very mild temperture. Perfect temperature for surfing and having ice cream.
+
  *Notice: Since all dataframe were formatted to certain decimals places. The changes of analyses results are based on current formatted data. If trace back to original data or formatted to more decimal places, there might be delicate changes been noticed.*
