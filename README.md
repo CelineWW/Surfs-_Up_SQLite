@@ -1,20 +1,13 @@
 # surfs_up
-# School_District_Analysis
 
-## Overview of the school district analysis
-Due to academic dishonesty, Thomas High School ninth graders' math and reading scores were replaced by NaNs. School district files were reanalyzed to
-compare the results, aiming to determine how these changes affected the overall analysis. The following analyses were covered:
-1. Create data frames of district summary.
+## Overview of the surfs_up analysis
+Based on the anlysis of temperature and precipitation in Oahu, W. Avy is confident to open a surf and ice cream shop in Oahu. In order to make sure his business would be sustainable year-round, the temperature data for June and December is further analized. 
+1. Query the temperature for the months of June.
 2. Create data frames of school summary.
 3. Determine the top 5 and bottom 5 performing schools, based on the overall passing rate.
 4. List the average math scores for each grade level from each school.
 5. List the average reading scores for each grade level from each school.
 6. Calculate the scores by school spending per student, by school size, and by school type
-
-## Resources and Tools
-- Data Source: [schools_complete.csv](https://github.com/CelineWW/School_District_Analysis/blob/main/Resources/schools_complete.csv),
-               [students_complete.csv](https://github.com/CelineWW/School_District_Analysis/blob/main/Resources/students_complete.csv).
-- Software Python 3.7.13, jupyter notebook
 
 ## Results
 - **June Temperatures**
