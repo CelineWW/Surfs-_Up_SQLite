@@ -8,12 +8,12 @@ Based on the anlysis of temperature and precipitation in Oahu, W. Avy is confide
 
 ## Results
 - **June Temperatures**
-    - Original>>>>
-    - Replaced>>>>
- 
+
+![june_summary](https://user-images.githubusercontent.com/105877888/180625541-f46eddd5-b21c-4d13-8425-e2e8b9c33ac3.PNG)
+
 - **December Temperatures**
-    - Original>>>>
-    - Replaced>>>>
+
+![december_summary](https://user-images.githubusercontent.com/105877888/180625546-9ef7b818-4031-45bd-bf09-8abb4932bdc4.PNG)
    
 - **3 Differences between June and December Temperatures**
   - Highest and Lowest Temperature
