@@ -23,12 +23,10 @@ Based on the anlysis of temperature and precipitation in Oahu, W. Avy is confide
      - The average temperature in June is 74.9°F. The average temperature in December is 71.0°F. December is still slightly cooler than June in Oahu island. 
   
   - Standard Deviation
-    - Standard Deviation is 3.3 and 3.7 for June and December tempertures respectively. 
-
-
+    - Standard Deviation is 3.3 and 3.7 for June and December tempertures respectively. This means that in December, the temperature typically has wider distribution than in June.
 
 ## Summary
   - Lowest temperature shows a big difference in June and December. However the lowest temperature mostly happen in mid-night. The   surf and ice cream shop mainly opens in day. Highest temperature doesn't change too much. This won't affect W. Avy's bussiness very much.
-  - Even though the averager temperature in December is still slightly cooler than June.These are still very mild temperture. Perfect temperature for surfing and having ice cream.
-
- *Notice: Since all dataframe were formatted to certain decimals places. The changes of analyses results are based on current formatted data. If trace back to original data or formatted to more decimal places, there might be delicate changes been noticed.*
+  - Even though the averager temperature in December is still slightly cooler than June overall. It is still at very mild temperture in Oahu throughout the year. Perfect temperature for surfing and having ice cream.
+  - Since Oahu is an island, surrounded by the ocean. Precipitation is an critial parameter of the weather. We can do more query to of precipitation data for the months of June and December from Measurement table. Ultilize the summary statistics of precipitation data to get more information.
+  - From location to location, the weather is variable too. There are multiple stations for detecting temperature and precipitation. So do the query from Station table to get the tempearature and precipitation differences among stations would help too. We will suggest W. Avy to operate the surf and ice cream shop closer to the station which fit his target better.
