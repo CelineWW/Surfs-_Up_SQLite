@@ -2,12 +2,9 @@
 
 ## Overview of the surfs_up analysis
 Based on the anlysis of temperature and precipitation in Oahu, W. Avy is confident to open a surf and ice cream shop in Oahu. In order to make sure his business would be sustainable year-round, the temperature data for June and December is further analized. 
-1. Query the temperature for the months of June.
-2. Create data frames of school summary.
-3. Determine the top 5 and bottom 5 performing schools, based on the overall passing rate.
-4. List the average math scores for each grade level from each school.
-5. List the average reading scores for each grade level from each school.
-6. Calculate the scores by school spending per student, by school size, and by school type
+1. Query the temperature data for the months of June, and get the summary statistics.
+2. Query the temperature data for the months of December, and get the summary statistics.
+3. Compare the temperature differences between June and December.
 
 ## Results
 - **June Temperatures**
