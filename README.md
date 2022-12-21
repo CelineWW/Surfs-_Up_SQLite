@@ -1,4 +1,4 @@
-# surfs_up
+# Surfs Up with Ice Cream
 
 ## Overview of the surfs_up analysis
 Based on the anlysis of temperature and precipitation in Oahu, W. Avy is confident to open a surf and ice cream shop in Oahu. In order to make sure his business would be sustainable year-round, the temperature data for June and December is further discovered. 
